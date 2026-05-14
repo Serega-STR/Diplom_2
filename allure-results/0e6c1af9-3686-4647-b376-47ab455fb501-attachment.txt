@@ -1,0 +1,7 @@
+14:10:41 - helper - ERROR - Ошибка АВТОРИЗАЦИИ. Статус: 401 Ответ: {"success":false,"message":"email or password are incorrect"}
+14:10:42 - helper - INFO - Пользователь авторизован
+14:10:42 - helper - INFO - Достаем токен доступа из response авторизации
+14:10:42 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTdlOTg0MjcwMDAxYmU5M2Y4OCIsImlhdCI6MTc3ODc0OTg0MiwiZXhwIjoxNzc4NzUxMDQyfQ.4K03mCCSR__dSKMH4cqPPM9FHTs2iGGt2t0AQw2vAm0
+14:10:42 - helper - INFO - удаляем пользователя!
+14:10:43 - helper - INFO - Пользователь успешно удален!

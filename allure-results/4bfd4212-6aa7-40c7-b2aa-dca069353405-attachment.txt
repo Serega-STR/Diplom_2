@@ -1,0 +1,10 @@
+[32mINFO    [0m helper:user.py:23 курьер создан!
+payload: {'email': 'yctamddlsr@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTc0OTg0MjcwMDAxYmU5M2Y4MSIsImlhdCI6MTc3ODc0OTgxMiwiZXhwIjoxNzc4NzUxMDEyfQ.t-azA1gkatHIBSFsKBgMrCX5KEuinUGuvuSyzVqK-U0
+[33mWARNING [0m helper:user.py:28 Ошибка! Не удалось создать курьера: response.status_code == 403
+[32mINFO    [0m helper:user.py:42 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTc0OTg0MjcwMDAxYmU5M2Y4MSIsImlhdCI6MTc3ODc0OTgxMywiZXhwIjoxNzc4NzUxMDEzfQ._KQYWUMRYoNRLNWvLPpGiJbdlv-1cwDN7EKKLtccEZs
+[32mINFO    [0m helper:user.py:75 удаляем пользователя!
+[32mINFO    [0m helper:user.py:78 Пользователь успешно удален!

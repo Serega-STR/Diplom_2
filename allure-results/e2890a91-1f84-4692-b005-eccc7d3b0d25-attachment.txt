@@ -1,0 +1,10 @@
+14:10:12 - helper - INFO - курьер создан!
+payload: {'email': 'yctamddlsr@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTc0OTg0MjcwMDAxYmU5M2Y4MSIsImlhdCI6MTc3ODc0OTgxMiwiZXhwIjoxNzc4NzUxMDEyfQ.t-azA1gkatHIBSFsKBgMrCX5KEuinUGuvuSyzVqK-U0
+14:10:13 - helper - WARNING - Ошибка! Не удалось создать курьера: response.status_code == 403 
+14:10:13 - helper - INFO - Пользователь авторизован
+14:10:13 - helper - INFO - Достаем токен доступа из response авторизации
+14:10:13 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTc0OTg0MjcwMDAxYmU5M2Y4MSIsImlhdCI6MTc3ODc0OTgxMywiZXhwIjoxNzc4NzUxMDEzfQ._KQYWUMRYoNRLNWvLPpGiJbdlv-1cwDN7EKKLtccEZs
+14:10:13 - helper - INFO - удаляем пользователя!
+14:10:14 - helper - INFO - Пользователь успешно удален!

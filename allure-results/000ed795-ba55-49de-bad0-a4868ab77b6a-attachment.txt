@@ -1,0 +1,4 @@
+[32mINFO    [0m helper:user.py:23 курьер создан!
+payload: {'email': 'vasya2_test-data@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTdlOTg0MjcwMDAxYmU5M2Y4OCIsImlhdCI6MTc3ODc0OTgyMiwiZXhwIjoxNzc4NzUxMDIyfQ.ks5mIaj73DJW4QixERn1WtYt91qNtTQyqDEGUKuSviw
+[31m[1mERROR   [0m helper:user.py:51 Ошибка АВТОРИЗАЦИИ. Статус: 401 Ответ: {"success":false,"message":"email or password are incorrect"}

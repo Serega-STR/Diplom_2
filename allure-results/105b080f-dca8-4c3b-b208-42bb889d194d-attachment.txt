@@ -1,0 +1,9 @@
+[32mINFO    [0m helper:user.py:23 курьер создан!
+payload: {'email': 'galtyigpur@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTcyOTg0MjcwMDAxYmU5M2Y3ZSIsImlhdCI6MTc3ODc0OTgxMCwiZXhwIjoxNzc4NzUxMDEwfQ.3djeRn61PzOefT0XbUY8wQm5UV4REfJwAqpr-jqbewY
+[32mINFO    [0m helper:user.py:42 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTcyOTg0MjcwMDAxYmU5M2Y3ZSIsImlhdCI6MTc3ODc0OTgxMCwiZXhwIjoxNzc4NzUxMDEwfQ.3djeRn61PzOefT0XbUY8wQm5UV4REfJwAqpr-jqbewY
+[32mINFO    [0m helper:user.py:75 удаляем пользователя!
+[32mINFO    [0m helper:user.py:78 Пользователь успешно удален!

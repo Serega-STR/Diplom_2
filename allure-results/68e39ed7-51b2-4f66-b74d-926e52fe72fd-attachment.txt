@@ -1,0 +1,10 @@
+14:10:19 - helper - INFO - курьер создан!
+payload: {'email': 'vxmokncjwq@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTdiOTg0MjcwMDAxYmU5M2Y4NCIsImlhdCI6MTc3ODc0OTgxOSwiZXhwIjoxNzc4NzUxMDE5fQ.SF-xfJnuekOmbxrwyU3gQaTq06eA4f194yUUyauiaK4
+14:10:20 - helper - INFO - Пользователь авторизован
+14:10:20 - helper - INFO - Пользователь авторизован
+14:10:20 - helper - INFO - Достаем токен доступа из response авторизации
+14:10:20 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTdiOTg0MjcwMDAxYmU5M2Y4NCIsImlhdCI6MTc3ODc0OTgyMCwiZXhwIjoxNzc4NzUxMDIwfQ.0iZx2ZqSOvEWs_YGHCCv83PemV-ZwL0dTCFyjB94CZI
+14:10:20 - helper - INFO - удаляем пользователя!
+14:10:22 - helper - INFO - Пользователь успешно удален!

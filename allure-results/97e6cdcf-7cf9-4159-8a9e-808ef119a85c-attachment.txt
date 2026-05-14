@@ -1,0 +1,9 @@
+14:10:10 - helper - INFO - курьер создан!
+payload: {'email': 'galtyigpur@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTcyOTg0MjcwMDAxYmU5M2Y3ZSIsImlhdCI6MTc3ODc0OTgxMCwiZXhwIjoxNzc4NzUxMDEwfQ.3djeRn61PzOefT0XbUY8wQm5UV4REfJwAqpr-jqbewY
+14:10:11 - helper - INFO - Пользователь авторизован
+14:10:11 - helper - INFO - Достаем токен доступа из response авторизации
+14:10:11 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDU5MTcyOTg0MjcwMDAxYmU5M2Y3ZSIsImlhdCI6MTc3ODc0OTgxMCwiZXhwIjoxNzc4NzUxMDEwfQ.3djeRn61PzOefT0XbUY8wQm5UV4REfJwAqpr-jqbewY
+14:10:11 - helper - INFO - удаляем пользователя!
+14:10:12 - helper - INFO - Пользователь успешно удален!
