@@ -1,0 +1,10 @@
+[32mINFO    [0m helper:user.py:22 пользователь создан!
+payload: {'email': 'sanfaljvvo@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2I0OTg0MjcwMDAxYmU5NGU5NiIsImlhdCI6MTc3OTAxMzU1NiwiZXhwIjoxNzc5MDE0NzU2fQ.eOwMaxuKEzGTmmbN9IvHLiG2Tdts_8mcfkDS0uHCzlM
+[32mINFO    [0m helper:order.py:17 Успешное создание заказа
+[32mINFO    [0m helper:user.py:40 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2I0OTg0MjcwMDAxYmU5NGU5NiIsImlhdCI6MTc3OTAxMzU1NywiZXhwIjoxNzc5MDE0NzU3fQ.s05r5s_00Tba7MFpfRf3fSztRZzWin-yDkF0l_tpV1o
+[32mINFO    [0m helper:user.py:76 удаляем пользователя!
+[32mINFO    [0m helper:user.py:79 Пользователь успешно удален!

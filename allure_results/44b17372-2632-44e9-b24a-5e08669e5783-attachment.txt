@@ -1,0 +1,9 @@
+15:26:00 - helper - INFO - пользователь создан!
+payload: {'email': 'bsazrwsmls@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2I3OTg0MjcwMDAxYmU5NGU5OSIsImlhdCI6MTc3OTAxMzU1OSwiZXhwIjoxNzc5MDE0NzU5fQ.9E8yOMRms2Ds5J-PQD7kZrAZ4LupsE72_e4wATW3F5M
+15:26:00 - helper - INFO - Пользователь авторизован
+15:26:00 - helper - INFO - Достаем токен доступа из response авторизации
+15:26:00 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2I3OTg0MjcwMDAxYmU5NGU5OSIsImlhdCI6MTc3OTAxMzU1OSwiZXhwIjoxNzc5MDE0NzU5fQ.9E8yOMRms2Ds5J-PQD7kZrAZ4LupsE72_e4wATW3F5M
+15:26:00 - helper - INFO - удаляем пользователя!
+15:26:02 - helper - INFO - Пользователь успешно удален!

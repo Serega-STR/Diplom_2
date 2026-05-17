@@ -1,0 +1,14 @@
+[32mINFO    [0m helper:user.py:22 пользователь создан!
+payload: {'email': 'phqjefzogt@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2FkOTg0MjcwMDAxYmU5NGU4ZSIsImlhdCI6MTc3OTAxMzU0OSwiZXhwIjoxNzc5MDE0NzQ5fQ.NdYkdtGw7XlbPE-vsODW_B_8ZgNNkUoeGTB1Q93xoss
+[32mINFO    [0m helper:user.py:40 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2FkOTg0MjcwMDAxYmU5NGU4ZSIsImlhdCI6MTc3OTAxMzU0OSwiZXhwIjoxNzc5MDE0NzQ5fQ.NdYkdtGw7XlbPE-vsODW_B_8ZgNNkUoeGTB1Q93xoss
+[33mWARNING [0m helper:order.py:19 Не удалось создать заказ. status_code == 500
+[32mINFO    [0m helper:user.py:40 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2FkOTg0MjcwMDAxYmU5NGU4ZSIsImlhdCI6MTc3OTAxMzU1MSwiZXhwIjoxNzc5MDE0NzUxfQ.nz6g9t-b_mo3Zu7nB0oJv559pCxyrW07dmIV4ZzSQBw
+[32mINFO    [0m helper:user.py:76 удаляем пользователя!
+[32mINFO    [0m helper:user.py:79 Пользователь успешно удален!

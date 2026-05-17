@@ -1,0 +1,10 @@
+15:26:03 - helper - INFO - пользователь создан!
+payload: {'email': 'xdrfwhpyxr@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2JhOTg0MjcwMDAxYmU5NGU5YyIsImlhdCI6MTc3OTAxMzU2MiwiZXhwIjoxNzc5MDE0NzYyfQ.m1RE6ewlk6CRDCGNK8nv8jHJs12GlESK8YndLdskEgU
+15:26:05 - helper - WARNING - Ошибка! Не удалось создать пользователя: response.status_code == 403 
+15:26:06 - helper - INFO - Пользователь авторизован
+15:26:06 - helper - INFO - Достаем токен доступа из response авторизации
+15:26:06 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2JhOTg0MjcwMDAxYmU5NGU5YyIsImlhdCI6MTc3OTAxMzU2NSwiZXhwIjoxNzc5MDE0NzY1fQ.MURsp3_PW3SnkLc2u21rV74GQ6jgOlgOhjsscdcydU8
+15:26:06 - helper - INFO - удаляем пользователя!
+15:26:07 - helper - INFO - Пользователь успешно удален!
