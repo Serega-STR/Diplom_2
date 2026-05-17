@@ -1,0 +1,7 @@
+[31m[1mERROR   [0m helper:user.py:49 Ошибка АВТОРИЗАЦИИ. Статус: 401 Ответ: {"success":false,"message":"email or password are incorrect"}
+[32mINFO    [0m helper:user.py:40 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2NkOTg0MjcwMDAxYmU5NGVhMiIsImlhdCI6MTc3OTAxMzU4MywiZXhwIjoxNzc5MDE0NzgzfQ.APjC_9Q9qrAPYXoxhf2_eQjlmm7yqkzpMINik327faY
+[32mINFO    [0m helper:user.py:76 удаляем пользователя!
+[32mINFO    [0m helper:user.py:79 Пользователь успешно удален!

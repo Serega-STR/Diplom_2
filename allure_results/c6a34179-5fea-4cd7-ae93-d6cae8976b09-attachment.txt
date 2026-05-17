@@ -1,0 +1,9 @@
+15:26:18 - helper - INFO - пользователь создан!
+payload: {'email': 'erkyqwwgty@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2M5OTg0MjcwMDAxYmU5NGU5ZiIsImlhdCI6MTc3OTAxMzU3NywiZXhwIjoxNzc5MDE0Nzc3fQ.JiTcfOn5U0O7pGge8f1W78t4ukseMmFZ-4lpOH18LjU
+15:26:19 - helper - INFO - Пользователь авторизован
+15:26:19 - helper - INFO - Достаем токен доступа из response авторизации
+15:26:19 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2M5OTg0MjcwMDAxYmU5NGU5ZiIsImlhdCI6MTc3OTAxMzU3OCwiZXhwIjoxNzc5MDE0Nzc4fQ.Gz94e48HkwUNsKuaJnizvd6Ri6UXxCqE1TVzCxfdC-w
+15:26:19 - helper - INFO - удаляем пользователя!
+15:26:21 - helper - INFO - Пользователь успешно удален!

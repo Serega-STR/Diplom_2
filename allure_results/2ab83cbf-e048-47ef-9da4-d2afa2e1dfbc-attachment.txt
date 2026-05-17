@@ -1,0 +1,14 @@
+15:25:50 - helper - INFO - пользователь создан!
+payload: {'email': 'phqjefzogt@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2FkOTg0MjcwMDAxYmU5NGU4ZSIsImlhdCI6MTc3OTAxMzU0OSwiZXhwIjoxNzc5MDE0NzQ5fQ.NdYkdtGw7XlbPE-vsODW_B_8ZgNNkUoeGTB1Q93xoss
+15:25:50 - helper - INFO - Пользователь авторизован
+15:25:50 - helper - INFO - Достаем токен доступа из response авторизации
+15:25:50 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2FkOTg0MjcwMDAxYmU5NGU4ZSIsImlhdCI6MTc3OTAxMzU0OSwiZXhwIjoxNzc5MDE0NzQ5fQ.NdYkdtGw7XlbPE-vsODW_B_8ZgNNkUoeGTB1Q93xoss
+15:25:51 - helper - WARNING - Не удалось создать заказ. status_code == 500
+15:25:52 - helper - INFO - Пользователь авторизован
+15:25:52 - helper - INFO - Достаем токен доступа из response авторизации
+15:25:52 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2FkOTg0MjcwMDAxYmU5NGU4ZSIsImlhdCI6MTc3OTAxMzU1MSwiZXhwIjoxNzc5MDE0NzUxfQ.nz6g9t-b_mo3Zu7nB0oJv559pCxyrW07dmIV4ZzSQBw
+15:25:52 - helper - INFO - удаляем пользователя!
+15:25:53 - helper - INFO - Пользователь успешно удален!

@@ -1,0 +1,4 @@
+[32mINFO    [0m helper:user.py:22 пользователь создан!
+payload: {'email': 'vasya2_test-data@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2NkOTg0MjcwMDAxYmU5NGVhMiIsImlhdCI6MTc3OTAxMzU4MSwiZXhwIjoxNzc5MDE0NzgxfQ.bEm79oO0PDq7dks-JaarBDXaPZ-X4kf0ol7zCAhpcJw
+[31m[1mERROR   [0m helper:user.py:49 Ошибка АВТОРИЗАЦИИ. Статус: 401 Ответ: {"success":false,"message":"email or password are incorrect"}
