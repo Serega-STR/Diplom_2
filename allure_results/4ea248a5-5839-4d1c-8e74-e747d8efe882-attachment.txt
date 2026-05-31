@@ -1,0 +1,10 @@
+[32mINFO    [0m helper:user.py:22 пользователь создан!
+payload: {'email': 'xdrfwhpyxr@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2JhOTg0MjcwMDAxYmU5NGU5YyIsImlhdCI6MTc3OTAxMzU2MiwiZXhwIjoxNzc5MDE0NzYyfQ.m1RE6ewlk6CRDCGNK8nv8jHJs12GlESK8YndLdskEgU
+[33mWARNING [0m helper:user.py:27 Ошибка! Не удалось создать пользователя: response.status_code == 403 
+[32mINFO    [0m helper:user.py:40 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2JhOTg0MjcwMDAxYmU5NGU5YyIsImlhdCI6MTc3OTAxMzU2NSwiZXhwIjoxNzc5MDE0NzY1fQ.MURsp3_PW3SnkLc2u21rV74GQ6jgOlgOhjsscdcydU8
+[32mINFO    [0m helper:user.py:76 удаляем пользователя!
+[32mINFO    [0m helper:user.py:79 Пользователь успешно удален!

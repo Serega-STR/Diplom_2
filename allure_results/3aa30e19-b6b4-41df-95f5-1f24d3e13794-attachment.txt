@@ -1,0 +1,9 @@
+[32mINFO    [0m helper:user.py:22 пользователь создан!
+payload: {'email': 'bsazrwsmls@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2I3OTg0MjcwMDAxYmU5NGU5OSIsImlhdCI6MTc3OTAxMzU1OSwiZXhwIjoxNzc5MDE0NzU5fQ.9E8yOMRms2Ds5J-PQD7kZrAZ4LupsE72_e4wATW3F5M
+[32mINFO    [0m helper:user.py:40 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2I3OTg0MjcwMDAxYmU5NGU5OSIsImlhdCI6MTc3OTAxMzU1OSwiZXhwIjoxNzc5MDE0NzU5fQ.9E8yOMRms2Ds5J-PQD7kZrAZ4LupsE72_e4wATW3F5M
+[32mINFO    [0m helper:user.py:76 удаляем пользователя!
+[32mINFO    [0m helper:user.py:79 Пользователь успешно удален!

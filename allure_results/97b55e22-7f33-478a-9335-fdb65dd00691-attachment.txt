@@ -1,0 +1,14 @@
+[32mINFO    [0m helper:user.py:22 пользователь создан!
+payload: {'email': 'rzrihvjnpn@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2E1OTg0MjcwMDAxYmU5NGU4OSIsImlhdCI6MTc3OTAxMzU0MSwiZXhwIjoxNzc5MDE0NzQxfQ.MkfpheAfFelADWMx9NQgKpC8Z3xan2BTeRjtQpcEPSs
+[32mINFO    [0m helper:user.py:40 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2E1OTg0MjcwMDAxYmU5NGU4OSIsImlhdCI6MTc3OTAxMzU0MSwiZXhwIjoxNzc5MDE0NzQxfQ.MkfpheAfFelADWMx9NQgKpC8Z3xan2BTeRjtQpcEPSs
+[32mINFO    [0m helper:order.py:17 Успешное создание заказа
+[32mINFO    [0m helper:user.py:40 Пользователь авторизован
+[32mINFO    [0m helper:user.py:64 Достаем токен доступа из response авторизации
+[32mINFO    [0m helper:user.py:67 получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2E1OTg0MjcwMDAxYmU5NGU4OSIsImlhdCI6MTc3OTAxMzU0NywiZXhwIjoxNzc5MDE0NzQ3fQ.Y9N5J6ILg_5kreh0HfyPoCeIbjLiX6KM2ni_wNj4Nao
+[32mINFO    [0m helper:user.py:76 удаляем пользователя!
+[32mINFO    [0m helper:user.py:79 Пользователь успешно удален!

@@ -1,0 +1,1 @@
+[33mWARNING [0m helper:user.py:27 Ошибка! Не удалось создать пользователя: response.status_code == 403

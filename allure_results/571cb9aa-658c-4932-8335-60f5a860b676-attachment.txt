@@ -1,0 +1,14 @@
+15:25:42 - helper - INFO - пользователь создан!
+payload: {'email': 'rzrihvjnpn@yandex.ru', 'password': 'password', 'name': 'name'}
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2E1OTg0MjcwMDAxYmU5NGU4OSIsImlhdCI6MTc3OTAxMzU0MSwiZXhwIjoxNzc5MDE0NzQxfQ.MkfpheAfFelADWMx9NQgKpC8Z3xan2BTeRjtQpcEPSs
+15:25:42 - helper - INFO - Пользователь авторизован
+15:25:42 - helper - INFO - Достаем токен доступа из response авторизации
+15:25:42 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2E1OTg0MjcwMDAxYmU5NGU4OSIsImlhdCI6MTc3OTAxMzU0MSwiZXhwIjoxNzc5MDE0NzQxfQ.MkfpheAfFelADWMx9NQgKpC8Z3xan2BTeRjtQpcEPSs
+15:25:47 - helper - INFO - Успешное создание заказа
+15:25:48 - helper - INFO - Пользователь авторизован
+15:25:48 - helper - INFO - Достаем токен доступа из response авторизации
+15:25:48 - helper - INFO - получен токен доступа:
+access_token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDk5N2E1OTg0MjcwMDAxYmU5NGU4OSIsImlhdCI6MTc3OTAxMzU0NywiZXhwIjoxNzc5MDE0NzQ3fQ.Y9N5J6ILg_5kreh0HfyPoCeIbjLiX6KM2ni_wNj4Nao
+15:25:48 - helper - INFO - удаляем пользователя!
+15:25:49 - helper - INFO - Пользователь успешно удален!
